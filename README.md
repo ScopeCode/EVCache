@@ -11,4 +11,4 @@ EVCache is an abbreviation for:
 ## Features
 * Distributed Key-Value store,  i.e., the cache is spread across multiple instances
 * AWS Zone-Aware - Data can be replicated across zones.
-* Registers and works with [Eureka] (https://github.com/Netflix/eureka/) for automatic discovery of new nodes/services.
+* Registers and works with [Eureka] (https://github.com/ScopeCode/eureka/) for automatic discovery of new nodes/services.
